@@ -7,7 +7,7 @@ import { PrivateRoute } from './PrivateRoute';
 import { PublicRoute } from './PublicRoute';
 
 import { LoginScreen } from '../components/login/LoginScreen';
-import { Dashboardoutes } from './Dashboardoutes';
+import { DashboardRoutes } from './DashboardRoutes';
 import { AuthContext } from '../auth/AuthContext';
 
 export const AppRouter = () => {
@@ -27,7 +27,7 @@ export const AppRouter = () => {
 
                     <PrivateRoute 
                         path="/" 
-                        component={ Dashboardoutes }
+                        component={ DashboardRoutes }
                         isAuthenticated={ user.logged }
                     />
                 </Switch>
