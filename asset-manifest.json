@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/React-heroes-app/static/js/main.36f1153c.chunk.js",
+    "main.js.map": "/React-heroes-app/static/js/main.36f1153c.chunk.js.map",
+    "runtime-main.js": "/React-heroes-app/static/js/runtime-main.fee6447f.js",
+    "runtime-main.js.map": "/React-heroes-app/static/js/runtime-main.fee6447f.js.map",
+    "static/js/2.fb1ac3c6.chunk.js": "/React-heroes-app/static/js/2.fb1ac3c6.chunk.js",
+    "static/js/2.fb1ac3c6.chunk.js.map": "/React-heroes-app/static/js/2.fb1ac3c6.chunk.js.map",
+    "index.html": "/React-heroes-app/index.html",
+    "static/js/2.fb1ac3c6.chunk.js.LICENSE.txt": "/React-heroes-app/static/js/2.fb1ac3c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fee6447f.js",
+    "static/js/2.fb1ac3c6.chunk.js",
+    "static/js/main.36f1153c.chunk.js"
+  ]
+}
